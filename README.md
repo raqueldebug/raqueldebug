@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @raqueldebug
-- 👀 I’m interested in ser gestora de projetos
 - 🌱 I’m currently learning  java 
 - 💞️ I’m looking to collaborate on  programação
 - 📫 How to reach me : santosraquel439@gmail.com
